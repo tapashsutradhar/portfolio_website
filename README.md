@@ -1,4 +1,4 @@
-## Tapash Sutradhar : Portfolio
+## Portfolio
 
 
 Add resume in assets folder with name of Tapash Sutradhar.pdf (change the name with the same formate)
